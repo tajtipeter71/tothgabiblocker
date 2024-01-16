@@ -19,14 +19,18 @@ function removeContentBasedOnTextAndImages() {
   });  
 }
 
-removeContentBasedOnTextAndImages();
-
-// MutationObserver DOM change agent
-const observer = new MutationObserver(mutations => {
-  mutations.forEach(mutation => {
+chrome.storage.local.get('isTGExtensionActive', function(data) {
+  if(data.isTGExtensionActive !== false) {
     removeContentBasedOnTextAndImages();
-  });
-});
 
-// Start 
-observer.observe(document.body, { childList: true, subtree: true });
+    // MutationObserver DOM change agent
+    const observer = new MutationObserver(mutations => {
+      mutations.forEach(mutation => {
+        removeContentBasedOnTextAndImages();
+      });
+    });
+
+    // Start observing
+    observer.observe(document.body, { childList: true, subtree: true });
+  }
+});
