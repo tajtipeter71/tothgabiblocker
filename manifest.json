@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Tóth Gabi Content Blocker",
+  "version": "1.0",
+  "permissions": ["scripting"],
+  "host_permissions": ["*://*/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
