@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Tóth Gabi Content Blocker",
-  "version": "1.0",
+  "version": "1.1",
   "icons": {
     "16": "icon16.png",
     "32": "icon32.png",
