@@ -1,5 +1,5 @@
 # Tóth Gabi Content Blocker
-![Tóth Gabi Content Blocker](images/icon128.png)
+![Tóth Gabi Content Blocker](icon128.png)
 
 Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat a magyar (.hu) weboldalakról, biztosítva egy Tóth Gabi-mentes böngészési élményt.
 
