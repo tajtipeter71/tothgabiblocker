@@ -17,10 +17,7 @@ Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat
 5. Kicsomagolt elemek betöltése gombbal válassza ki a mappát.
 6. Kapcsolja be a kiegészítőt.
 
-## Telepítés1 (ha már megjelenik)
-1. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
-2. Írja be a keresőbe: *Tóth Gabi Content Blocker*
-3. Kapcsolja be a kiegészítőt.
+7. [![kérek  1 pizzát :)](https://img.buymeacoffee.com/button-api/?text=kérek%201%20pizzát%20:)&emoji=🍕&slug=petke&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/petke)
 
 ## Használat
 
@@ -34,6 +31,5 @@ Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon ho
 
 - **Verzió**: 1.4.3
 - **Fejlesztő**: [Tajti Péter](https://github.com/tajtipeter71)
-- **Buy Me A Coffe**: [Vagy egy pizzát :)](https://www.buymeacoffee.com/petke)
 - **Licenc**: [MIT](LICENSE)
 © [Ön Neve](https://github.com/YourUsername), [Az aktuális év]. Minden jog fenntartva.
