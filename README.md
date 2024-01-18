@@ -10,13 +10,6 @@ Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat
 - **Egyszerű Kezelés**: A kiegészítő állapota egyszerűen szabályozható egy ki- bekapcsoló gombbal.
 - **Könnyű Telepítés**: Egyszerű telepítés és azonnali működés.
 
-## Teleítés (egyszerű)
-1. töltse le a [CRX fájlt](crx/tothgabiblocker.crx)
-2. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
-3. Kapcsolja be a fejlesztő módot, jobb felül.
-4. Húzza be egérrel a crx fájlt.
-6. Kapcsolja be a kiegészítőt.
-  
 ## Telepítés
 1. Töltse le a forrást egy mappába
 2. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
