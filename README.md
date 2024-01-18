@@ -35,11 +35,4 @@ Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon ho
 - **Verzió**: 1.4.3
 - **Fejlesztő**: [Ön Neve](https://github.com/tajtipeter71)
 - **Licenc**: [MIT](LICENSE)
-
-## Köszönetnyilvánítás
-
-Köszönet mindenkinek, aki hozzájárult a projekt fejlesztéséhez!
-
----
-
 © [Ön Neve](https://github.com/YourUsername), [Az aktuális év]. Minden jog fenntartva.
