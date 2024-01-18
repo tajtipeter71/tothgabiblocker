@@ -9,9 +9,8 @@ Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat
 - **Könnyű Telepítés**: Egyszerű telepítés és azonnali működés.
 
 ## Telepítés
-
-1. Töltse le a kiegészítőt a Chrome Web Store-ból.
-2. Kattintson a "Hozzáadás a Chrome-hoz" gombra.
+1. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
+2. Írja be a keresőbe: *Tóth Gabi Content Blocker*
 3. A kiegészítő automatikusan aktiválódik.
 
 ## Használat
@@ -25,7 +24,7 @@ Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon ho
 ## Fejlesztői információk
 
 - **Verzió**: 1.4.3
-- **Fejlesztő**: [Ön Neve](https://github.com/YourUsername)
+- **Fejlesztő**: [Ön Neve](https://github.com/tajtipeter71)
 - **Licenc**: [MIT](LICENSE)
 
 ## Köszönetnyilvánítás
