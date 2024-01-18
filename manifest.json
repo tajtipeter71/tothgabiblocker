@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Tóth Gabi Content Blocker",
-  "version": "1.3",
+  "version": "1.4.3",
+  "description": "A kiterjesztés eltávolítja a Tóth Gabi tartalmakat a magyar (*.hu) oldalakról.",
   "icons": {
     "16": "icon16.png",
     "32": "icon32.png",
@@ -12,14 +13,14 @@
     "default_popup": "popup.html",
     "default_icon": "icon128.png"
   },
-  "permissions": ["storage", "scripting"],
-  "host_permissions": ["*://*/*"],
+  "permissions": ["storage"],
+  "host_permissions": ["*://*.hu/*"],
   "background": {
     "service_worker": "background.js"
   },
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
+      "matches": ["*://*.hu/*"],
       "js": ["content.js"]
     }
   ]

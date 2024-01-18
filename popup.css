@@ -28,3 +28,40 @@
 .checkbox {
   display : none;
 }
+
+body {
+  background-color: #DBF0F1;	
+  font-family: 'Roboto', sans-serif;
+  display: flex; /* Flexbox elrendezés */
+  justify-content: center; /* Középre igazítás vízszintesen */
+  align-items: center; /* Középre igazítás függőlegesen */
+  min-height: 100vh; /* Teljes magasság */
+  margin: 0; /* Eltávolítja az alapértelmezett margót */
+}
+
+.main {    
+  
+  background-color: white;
+  border-radius: 10px;
+  padding: auto;
+  margin: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Doboz árnyék hozzáadása */    
+}
+
+.blue {
+	width: 100%;
+	color: #858FF3;	
+	text-align: center;
+}
+
+
+
+.control {
+	text-align: center;	
+	margin-bottom: 15px;
+	padding: 10px;
+}
+
+img {	
+	width:200px;
+}
