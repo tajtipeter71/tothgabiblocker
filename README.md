@@ -1,5 +1,5 @@
 ![Tóth Gabi Content Blocker](icon128.png)
-# Tóth Gabi Content Blocker
+# Tóth Gabi Content Blocker 1.4.3 
 
 
 Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat a magyar (.hu) weboldalakról, biztosítva egy Tóth Gabi-mentes böngészési élményt.
@@ -10,7 +10,7 @@ Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat
 - **Egyszerű Kezelés**: A kiegészítő állapota egyszerűen szabályozható egy bekapcsoló gombbal.
 - **Könnyű Telepítés**: Egyszerű telepítés és azonnali működés.
   
-## Telepítés1 (ha már megjelenik)
+## Telepítés
 1. Töltse le a forrást egy mappába
 2. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
 3. Kapcsolja be a fejlesztő módot, jobb felül.
