@@ -32,4 +32,4 @@ Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon ho
 - **Verzió**: 1.4.3
 - **Fejlesztő**: [Tajti Péter](https://github.com/tajtipeter71)
 - **Licenc**: [MIT](LICENSE)
-© [Ön Neve](https://github.com/YourUsername), [Az aktuális év]. Minden jog fenntartva.
+© [Ön Neve](https://github.com/tajtipeter71), [2024]. Minden jog fenntartva.
