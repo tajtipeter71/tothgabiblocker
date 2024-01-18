@@ -33,6 +33,7 @@ Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon ho
 ## Fejlesztői információk
 
 - **Verzió**: 1.4.3
-- **Fejlesztő**: [Ön Neve](https://github.com/tajtipeter71)
+- **Fejlesztő**: [Tajti Péter](https://github.com/tajtipeter71)
+- **Buy Me A Coffe**: [Vagy egy pizzát :)](https://www.buymeacoffee.com/petke)
 - **Licenc**: [MIT](LICENSE)
 © [Ön Neve](https://github.com/YourUsername), [Az aktuális év]. Minden jog fenntartva.
