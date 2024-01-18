@@ -25,7 +25,7 @@ A kiegészítő ikonja megjelenik a Chrome eszköztárán. Kattintson rá a beka
 
 ## Súgó és Támogatás
 
-Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon hozzánk az [Issue Tracker](#) oldalon keresztül.
+Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon hozzám. :)
 
 ## Fejlesztői információk
 
