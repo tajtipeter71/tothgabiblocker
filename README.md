@@ -14,7 +14,8 @@ Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat
 1. Töltse le a forrást egy mappába
 2. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
 3. Kapcsolja be a fejlesztő módot, jobb felül.
-5. Kicsomagolt elemek betöltése... gombbbal válassza ki a mappát
+5. Kicsomagolt elemek betöltése gombbal válassza ki a mappát.
+6. Kapcsolja be a kiegészítőt.
 
 ## Telepítés1 (ha már megjelenik)
 1. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
