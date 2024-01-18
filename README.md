@@ -30,6 +30,6 @@ Kérdéseivel vagy technikai támogatással kapcsolatos igényeivel forduljon ho
 ## Fejlesztői információk
 
 - **Verzió**: 1.4.3
-- **Fejlesztő**: [Tajti Péter](https://github.com/tajtipeter71)
+- **Fejlesztő**: [Petke](https://github.com/tajtipeter71)
 - **Licenc**: [MIT](LICENSE)
-© [Ön Neve](https://github.com/tajtipeter71), [2024]. Minden jog fenntartva.
+© [Petke](https://github.com/tajtipeter71), [2024]. Minden jog fenntartva.
