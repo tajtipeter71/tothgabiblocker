@@ -9,6 +9,12 @@ Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat
 - **Tartalom Szűrés**: Automatikusan eltávolít minden Tóth Gabihoz kapcsolódó tartalmat a .hu domainnel rendelkező oldalakról.
 - **Egyszerű Kezelés**: A kiegészítő állapota egyszerűen szabályozható egy bekapcsoló gombbal.
 - **Könnyű Telepítés**: Egyszerű telepítés és azonnali működés.
+- 
+## Telepítés1 (ha már megjelenik)
+1. Töltse le a forrást egy mappába
+2. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
+3. Kapcsolja be a fejlesztő módot, jobb felül.
+5. Kicsomagolt elemek betöltése... gombbbal válassza ki a mappát
 
 ## Telepítés1 (ha már megjelenik)
 1. Írja be a böngészősorba [chrome://extensions/](chrome://extensions/)
