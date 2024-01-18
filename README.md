@@ -16,6 +16,8 @@ Ez a Chrome kiegészítő eltávolítja a Tóth Gabihoz kapcsolódó tartalmakat
 3. Kapcsolja be a fejlesztő módot, jobb felül.
 5. Kicsomagolt elemek betöltése gombbal válassza ki a mappát.
 6. Kapcsolja be a kiegészítőt.
+7. ![Buy Me a Coffee](bmac.svg)
+
    
 ## Használat
 
