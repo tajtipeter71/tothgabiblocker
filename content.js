@@ -5,7 +5,7 @@ function removeContentBasedOnTextAndImages() {
 	let textMatch = element.textContent.includes('Tóth Gabi') || element.textContent.includes('Gabi Tóth');
 	let hrefMatch = element.tagName === 'A' && (element.href.includes('toth_gabi') || element.href.includes('toth-gabi') || element.href.includes('tothgabi') || element.href.includes('toth_gabi') || element.href.includes('Toth_Gabi'));
 	let titleMatch = element.title.includes('toth_gabi') || element.title.includes('toth-gabi') || element.title.includes('tothgabi') || element.title.includes('toth_gabi') || element.title.includes('Toth_Gabi')
-    if (textMatch || hrefMatch) {
+    if (textMatch || hrefMatch) { // titleMatch is talán...
       let closestDiv = element.closest('div');
       if (closestDiv) {
         closestDiv.style.display = 'none';
