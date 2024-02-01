@@ -32,4 +32,5 @@ A tartalmi változásokat a [MutationObserver](https://developer.mozilla.org/en-
 - **Verzió**: 1.4.3
 - **Fejlesztő**: [Petke](https://github.com/tajtipeter71)
 - **Licenc**: [MIT](LICENSE)
+- **[Fejlesztőknek: chrome-react-extension-tothgabi](https://github.com/tajtipeter71/chrome-react-extension-tothgabi)**
 © [Petke](https://github.com/tajtipeter71), [2024]. Minden jog fenntartva.
