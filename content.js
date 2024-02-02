@@ -1,10 +1,12 @@
 function removeContentBasedOnTextAndImages() {
+
+  const regex = /Tóth\s*Gabi|toth[_-]?gabi|Gabi\s*Tóth/i;
   // text content search
   const textElements = document.querySelectorAll('h1, h2, h3, h4, h5, h6, p, span, a');
   textElements.forEach(element => {
-	let textMatch = element.textContent.includes('Tóth Gabi') || element.textContent.includes('Gabi Tóth');
-	let hrefMatch = element.tagName === 'A' && (element.href.includes('toth_gabi') || element.href.includes('toth-gabi') || element.href.includes('tothgabi') || element.href.includes('toth_gabi') || element.href.includes('Toth_Gabi'));
-	let titleMatch = element.title.includes('toth_gabi') || element.title.includes('toth-gabi') || element.title.includes('tothgabi') || element.title.includes('toth_gabi') || element.title.includes('Toth_Gabi')
+    let textMatch: boolean = regex.test(element.textContent || ''); 
+    let hrefMatch: boolean = element.tagName === 'A' && regex.test(element.getAttribute('href') || '');
+    let titleMatch: boolean = regex.test(element.getAttribute('title') || '');
     if (textMatch || hrefMatch) { // titleMatch is talán...
       let closestDiv = element.closest('div');
       if (closestDiv) {
