@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Tóth Gabi Content Blocker",
   "version": "1.4.5",
-  "description": "A kiterjesztés eltávolítja a Tóth Gabi tartalmakat a magyar (*.hu) oldalakról. 1.4.5",
+  "description": "A kiterjesztés eltávolítja a Tóth Gabi tartalmakat a magyar (*.hu) oldalakról.",
   "icons": {
     "16": "icon16.png",
     "32": "icon32.png",
