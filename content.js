@@ -4,9 +4,9 @@ function removeContentBasedOnTextAndImages() {
   // text content search
   const textElements = document.querySelectorAll('h1, h2, h3, h4, h5, h6, p, span, a');
   textElements.forEach(element => {
-    let textMatch: boolean = regex.test(element.textContent || ''); 
-    let hrefMatch: boolean = element.tagName === 'A' && regex.test(element.getAttribute('href') || '');
-    let titleMatch: boolean = regex.test(element.getAttribute('title') || '');
+    let textMatch = regex.test(element.textContent || ''); 
+    let hrefMatch = element.tagName === 'A' && regex.test(element.getAttribute('href') || '');
+    let titleMatch = regex.test(element.getAttribute('title') || '');
     if (textMatch || hrefMatch) { // titleMatch is talán...
       let closestDiv = element.closest('div');
       if (closestDiv) {
